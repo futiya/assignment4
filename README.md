@@ -30,3 +30,6 @@ f.Prediction for (years)
 4.Do not accept a number less than 1 for frequency of increment or deductions.
 
 5.Output should come in following format
+
+### Reference
+Print Table in console : https://github.com/vdmeer/asciitable#maven 
