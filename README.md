@@ -33,3 +33,26 @@ f.Prediction for (years)
 
 ### Reference
 Print Table in console : https://github.com/vdmeer/asciitable#maven 
+
+### Result
+
+Enter The starting salary: 
+
+100
+
+Enter The  Increment Percent: 
+10
+
+Enter How frequently are deductions done: 
+2
+
+Enter Deductions on income: 
+20
+
+Enter How frequently is increment received: 
+2
+
+Enter Prediction for (years): 
+4
+
+https://raw.githubusercontent.com/futiya/assignment4/master/src/main/resources/screenshot.jpg
