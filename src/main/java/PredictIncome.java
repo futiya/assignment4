@@ -1,9 +1,7 @@
 import de.vandermeer.asciitable.AsciiTable;
-import model.Frequency;
 import model.InputModel;
 
 import java.math.BigDecimal;
-import java.util.Scanner;
 
 /**
  * @author Candise Li (jieqli@cn.ibm.com)
