@@ -54,5 +54,5 @@ Enter How frequently is increment received:
 
 Enter Prediction for (years): 
 4
+![Aaron Swartz](https://raw.githubusercontent.com/futiya/assignment4/master/src/main/resources/screenshot.jpg)
 
-https://raw.githubusercontent.com/futiya/assignment4/master/src/main/resources/screenshot.jpg
