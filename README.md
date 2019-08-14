@@ -1,12 +1,12 @@
-#Assignment:
+# Assignment:
 
-##Java 8
+## Java 8
 
-*Develop*
+**Develop**
 
 Salary Income Predictor
 
-*Description*
+**Description**
 
 Write a program that will predict the income of the user over a period of time(5 yr, 10 yr, 20 yr, 30 yr, 50 yr). 
 1.The program should ask for:
